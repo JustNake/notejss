@@ -1,0 +1,17 @@
+{
+  "name": "webproects",
+  "version": "1.0.0",
+  "description": "Node JS Kazino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobrik",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/wallet-adapter-react": "^0.15.15",
+    "@solana/web3.js": "^1.53.0",
+    "chalk": "^5.0.1",
+    "solana": "^1.0.7-development"
+  }
+}
